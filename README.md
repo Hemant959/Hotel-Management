@@ -18,7 +18,7 @@ ___
 
 <!-- Project Description -->
 ## Overview
-<p align="center">This project,   Insta Basic ," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting user information. 
+<p align="center">This project,   Hotel Management ," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting user information. 
 </p>
 
 <!-- Table of Contents -->
@@ -133,9 +133,9 @@ DeleteMapping: http://localhost:8080/Delete/Id/
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : SHRAVAN KUMAR   -
-- Maild Id : shravankm93@gmail.com
+For questions or feedback, please contact : Hemant Patel   -
+- Maild Id : hemant959singh@gmail.com
 
 <h1 align="center">Thank You...<h1>
 <h3 align = "center"> ***********************************************************<h3>
-*  Insta Basic 
+*  Hotel Management 
